@@ -1,39 +1,28 @@
 ---
 layout: page
 title: "About"
-date:  2014-11-19 21:50:53
+date:  2023-10-30 20:21:11
 ---
 
-#### Hi, I'm Nithin!
+#### A peek into myself..
+I'm someone who's interested in a little bit of everything; from systems and programming to networks and IAM and even philosophy's such as DevOps. I enjoy crafting scalable, maintainable, and resilient systems. I also dabble with development from time to time (mostly in the form of writing integrations) but mostly spend a lot of time writing scripts and programs to automate as much of my work as possible.
 
-I'm a programmer living in Ottawa, Canada,
-and I work at [Shopify](https://www.shopify.com/).
+I love things that give me a tough time (like trying to wrap my head around what happens when I run git commands haha), debugging and troubleshooting problems; both in systems and in code bases and identifying root causes for troublesome issues. Give me more of these!
 
-Before joining Shopify, I co-founded
-[WowMakers](http://www.wowmakers.com/) and
-[CrowdStudio.in](https://www.crowdstudio.in/)
-in Kochi, India.
-There I was part of the Rubyconf India team in 2016 and 2017,
-and also used to help organize the Kochi Ruby meetups &mdash;
-and the Chennai.rb meetups when I lived in Chennai.
+##### Uni days...
+A bit more personal. I'm a masters graduate from the University of New South Wales, Australia in the field of Telecommunications. 
+It was an alright course, but what I'm genuinely thankful for my time at uni was when I was introduced to *software defined networking* and cloud computing.
+Not that I ended up learning about AWS or anything, but it was a good beginning and one that defintely left an impression on me, making me dig further.
+Those couple courses had the right ingredients of all the stuff I enjoyed; networking, AWS, some linux and python. It was hard to go back to just traditional networking at that point, let alone telecommunications.
 
-On the interwebs, you can find me here:
-[Github](http://github.com/nithinbekal),
-[Bluesky](https://bsky.app/profile/nithinbekal.bsky.social),
-[Mastodon](https://ruby.social/@nithinbekal),
-[Instagram](https://www.instagram.com/nithinbekal),
-[Goodreads](https://www.goodreads.com/user/show/1059476-nithin-bekal),
-[LinkedIn](https://www.linkedin.com/in/nithinbekal).
+What started as a personal curiosity for me turned into a full-blown career in DevOps and cloud computing. 
+I practically lived the cloud (metaphorically and figuratively), spending countless hours learning the ropes and getting hands-on with some of the coolest (I thought back then) technologies. 
+This also helped me prepare for the CCNA and AWS SAA-C02 certifications, which I found to be good approaches to learning more about general technical concepts in IT (more about that in [certifications](./certifications )). 
 
-If you're looking for stuff to read on this site,
-you might want to look at some of the more popular Ruby related articles here:
+#### What IT means to me
+Right now, I find myself in a place where this isn’t just a job (cliche I know); it’s genuinely something that keeps me hooked. Sure, one day I might look back at this and chuckle at my youthful enthusiasm, but for now, there's a thrill to exploring uncharted territories for myself. Knowing there's things out there that I have no idea about is re-assuring; I'm not going to get bored of this in a very long time haha.
 
-- [Flip Flop Operator in Ruby](/posts/ruby-flip-flop)
-- [Tail Call Optimization in Ruby](/posts/ruby-tco)
-- [Writing Ruby Gems](/posts/writing-gems)
-- [Decorator Pattern in Ruby](/posts/ruby-decorators)
-- [Memoization in Ruby using Metaprogramming](/posts/ruby-memoization)
-- [The Law of Demeter](/posts/demeter)
+As a segue, what I truly love about IT is its dynamic nature; there’s always something new waiting to be discovered. Being in this industry sometimes feels like a constant state of euphoria (or, depending on who you ask, a perpetual state of desolation! 😉). And honestly, there’s something exhilarating about just watching and observing how ideas evolve over time. It’s all a grand adventure to me.
 
-You can find the complete list of posts [here](/).
-You can also find the slides from my talks at the Kochi Ruby and JS meetups [here](/slides/).
+Which also segue's well into my next part, which is what I do in my free time. I usually like to go on day hikes and admiring pictures of mountains in the himalayas (where I dream of going everyday. See more in [my blog](https://thehobbyistadventurer.com)).
+I do enjoy doing tech stuff in my time off as well. You can find some (pretty useless) projects I work on at [my github](https://github.com/user/velvetSymphony).

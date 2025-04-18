@@ -1,14 +1,11 @@
 
-name: Nithin Bekal
-title: Nithin Bekal
-description: "Nithin Bekal's blog about programming - Ruby, Rails, Vim, Elixir."
-url: https://nithinbekal.com
+name: Abhishek Chandrasekar
+title: Abhishek Chandrasekar
+description: "My portfolio of things I'm interested in and potentially a place for future blogs tech related."
+url: https://achandrasekar.com
 highlighter: rouge
 permalink: /posts/:title/
 markdown: kramdown
-
-theme_options:
-  google_analytics: G-241HN9TB7S
 
 plugins:
   - jekyll-feed
