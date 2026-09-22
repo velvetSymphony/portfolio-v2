@@ -6,8 +6,10 @@ url: https://achandrasekar.com
 highlighter: rouge
 permalink: /posts/:title/
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 plugins:
   - jekyll-feed
-  - jekyll-redirect-from
   - jekyll-sitemap
