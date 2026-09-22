@@ -5,6 +5,9 @@ description: "My portfolio of things I'm interested in and potentially a place f
 url: https://achandrasekar.com
 highlighter: rouge
 permalink: /posts/:title/
+# pin build timezone so local builds match CI (which runs in UTC). post dates carry no offset, so without this the rendered day shifts by builder TZ.
+timezone: UTC
+
 markdown: kramdown
 kramdown:
   input: GFM
